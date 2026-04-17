@@ -1,2 +1,9 @@
-# my-chat-bot-util
-A simple chat bot project
+# Chat Bot
+
+A simple chat bot project.
+\n
+## Getting Started
+
+```bash
+python main.py
+```
